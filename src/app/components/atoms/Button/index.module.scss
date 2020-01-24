@@ -1,0 +1,13 @@
+.button {
+  background-color: salmon;
+  border: 0;
+  width: 150px;
+  height: 120px;
+  color: #000;
+  &.red {
+    background-color: red;
+  }
+  &.yellow {
+    background-color: sandybrown;
+  }
+}
